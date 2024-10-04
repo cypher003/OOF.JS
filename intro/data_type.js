@@ -48,5 +48,3 @@ console.log(sym)
 let x = BigInt(123456789012345);
 let y = BigInt(7777777)
 console.log(x * y);
-
- 

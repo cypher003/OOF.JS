@@ -8,7 +8,6 @@
 */
 
 // name and value
-
 const gravity = 9.8
 const pi = 3.14
 
